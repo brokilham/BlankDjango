@@ -45,6 +45,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="HelloDjangoApp\static\site.css" />
+    <Content Include="HelloDjangoApp\templates\about.html" />
     <Content Include="HelloDjangoApp\templates\index.html" />
     <Content Include="requirements.txt" />
   </ItemGroup>
